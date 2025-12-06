@@ -40,3 +40,18 @@ AgenticAI_Builder/
 pip install streamlit pillow
 
 streamlit run app/main.py
+
+
+🖼️ Output
+
+The generated visual card includes:
+	•	Agent image on the left
+	•	Agent name and description
+	•	Core Skills (max 5)
+	•	Metrics (max 3)
+	•	“Details” and “Execute” buttons
+	•	Clean layout in a 1024x576 PNG
+
+Example file saved to:
+/output/Your_Agent_Name_card.png
+
