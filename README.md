@@ -17,3 +17,14 @@ AgenticAI Builder is a flexible, no-code/low-code visual card generator for crea
 ---
 
 ## 📂 Directory Structure
+AgenticAI_Builder/
+│
+├── app/
+│   ├── main.py             # Streamlit frontend
+│   ├── generator.py        # Image generation logic
+│   └── assets/
+│       └── Roboto-Bold.ttf # Font file
+│
+├── output/                 # Generated PNG files
+│
+└── README.md               # Project info
