@@ -124,12 +124,6 @@ Example JSON payload:
 - Feedback payloads can be anonymized (configurable).
 - No external network calls unless explicitly configured.
 
----
-
-## 👥 Contributors
-
-- [Your Name / Team]
-- Feedback contributors: internal and external beta testers
 
 ---
 
