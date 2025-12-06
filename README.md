@@ -28,3 +28,13 @@ AgenticAI_Builder/
 ├── output/                 # Generated PNG files
 │
 └── README.md               # Project info
+
+
+---
+
+## ▶️ How to Run
+
+### 1. Install Requirements
+
+```bash
+pip install streamlit pillow
