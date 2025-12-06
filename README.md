@@ -38,3 +38,5 @@ AgenticAI_Builder/
 
 ```bash
 pip install streamlit pillow
+
+streamlit run app/main.py
