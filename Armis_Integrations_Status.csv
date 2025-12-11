@@ -1,0 +1,56 @@
+Instance,Status,Status First Reported,Current State,Host / Address,Name,Types,Collector,Last Status Report,Last Edit At
+Seattle Colo 9200 TAP - 40G - enp101s0f1,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Seattle 9200 - 40G (Colo),9/15/2025 14:39,12/20/2023 18:48
+Denver Colo 9201 TAP - 40G - enp101s0f1,Active,9/15/2025 14:38,Running,N/A,SPAN/TAP,Switch,Denver 9201 - 40G (Colo),9/15/2025 14:38,12/19/2023 20:00
+Reston Colo 9199 TAP - 40G - enp101s0f1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Reston 9199 - 40G (Colo),9/15/2025 14:40,12/19/2023 20:38
+Hyderabad 9204 TAP - 10G - eno8,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Hyderabad 9204 - 40G,9/15/2025 14:40,12/19/2023 20:25
+Chennai 9203 TAP - 10G - eno8,Active,9/15/2025 14:34,Running,N/A,SPAN/TAP,Switch,Chennai 9203 - 40G,9/15/2025 14:34,12/19/2023 19:57
+Twinsburg 9209 TAP - 40G - enp101s0f1np1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Twinsburg 9209 - 40G,9/15/2025 14:40,12/20/2023 18:49
+North Royalton 9208  TAP - 10G - eno8,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,North Royalton 9208 - 10G (GN&T),9/15/2025 14:39,12/19/2023 14:29
+North Royalton 9207  TAP - 10G - eno8,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,North Royalton 9207 - 10G (GN&T),9/15/2025 14:39,12/19/2023 14:33
+Fairland DMZ 9227 TAP - 10G - Eno7,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Fairland 9227 - 40G (DMZ),9/15/2025 14:39,12/17/2024 18:06
+Fairland 9228 TAP - 10G - Eno7,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Fairland 9228 - 40G,9/15/2025 14:40,12/17/2024 18:07
+Twinsburg 9214 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Twinsburg 9214 - 40G (DMZ),9/15/2025 14:39,2/8/2024 6:54
+Twinsburg 9234 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Twinsburg 9234 - 40G (DMZ),9/15/2025 14:40,3/28/2024 18:48
+Twinsburg 9213 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Twinsburg 9213 - 40G,9/15/2025 14:40,2/8/2024 7:28
+Twinsburg 9211 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Twinsburg 9211 - 40G,9/15/2025 14:39,2/8/2024 7:46
+Twinsburg 9210 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Twinsburg 9210 - 40G,9/15/2025 14:40,2/8/2024 7:50
+Twinsburg 9212 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Twinsburg 9212 - 40G,9/15/2025 14:40,2/9/2024 4:16
+Tampa 9220 TAP - 40G - Enp101s0f1np1,No Network Traffic Error,9/15/2025 14:37,Running,N/A,SPAN/TAP,Switch,Tampa 9220 - 40G,9/15/2025 14:37,2/9/2024 5:11
+Tampa 9222 TAP - 40G - Enp101s0f1np1,No Network Traffic Error,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Tampa 9222 - 40G,9/15/2025 14:40,2/9/2024 5:16
+Tampa 9224 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Tampa 9224 - 40G,9/15/2025 14:40,2/9/2024 5:31
+Tampa 9223 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:38,Running,N/A,SPAN/TAP,Switch,Tampa 9223 - 40G,9/15/2025 14:38,2/9/2024 5:38
+Sacramento 9217 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:38,Running,N/A,SPAN/TAP,Switch,Sacramento 9217 - 40G (DMZ),9/15/2025 14:38,2/14/2024 12:21
+Sacramento 9219 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:38,Running,N/A,SPAN/TAP,Switch,Sacramento 9219 - 40G,9/15/2025 14:38,2/13/2024 10:31
+Sacramento 9216 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Sacramento 9216 - 40G,9/15/2025 14:40,2/13/2024 10:39
+Sacramento 9215 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:36,Running,N/A,SPAN/TAP,Switch,Sacramento 9215 - 40G,9/15/2025 14:36,2/13/2024 10:46
+Sacramento 9218 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Sacramento 9218 - 40G,9/15/2025 14:39,2/13/2024 11:54
+Seattle Colo 9229 TAP - 40G - Enp101s0f1,Active,9/15/2025 14:35,Running,N/A,SPAN/TAP,Switch,Seattle 9229 - 40G (Colo),9/15/2025 14:35,3/20/2024 20:12
+Ashburn Colo 9231 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Ashburn 9231 - 40G (Colo),9/15/2025 14:40,3/25/2024 17:56
+Ashburn Colo 9232 TAP - 40G - Enp101s0f1np1,Active,9/15/2025 14:36,Running,N/A,SPAN/TAP,Switch,Ashburn 9232 - 40G (Colo),9/15/2025 14:37,3/25/2024 18:02
+Reston Colo 9230 TAP - 40G - enp101s0f1,Active,9/15/2025 14:38,Running,N/A,SPAN/TAP,Switch,Reston 9230 - 40G (Colo),9/15/2025 14:38,8/19/2024 21:06
+Freehold 9225 TAP - 40G - enp101s0f0np0,Active,9/15/2025 14:38,Running,N/A,SPAN/TAP,Switch,Freehold 9225 - 40G (DMZ),9/15/2025 14:39,8/27/2024 17:20
+Freehold 9226 TAP - 40G - enp101s0f0np0,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Freehold 9226 - 40G,9/15/2025 14:39,8/27/2024 17:34
+Denver Colo 9235 TAP - 40G - enp101s0f1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Denver 9235 - 40G (Colo),9/15/2025 14:40,9/16/2024 14:25
+Twinsburg BMS 9241 - 10.146.193.0/25 - SPAN 1,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Twinsburg 9241 - 10G (BMS),9/15/2025 14:40,7/25/2025 14:26
+Twinsburg BMS 9241 - 10.146.193.0/25 - SPAN 2,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Twinsburg 9241 - 10G (BMS),9/15/2025 14:40,7/25/2025 14:26
+Twinsburg BMS 9241,Active,9/14/2025 21:11,Idle,N/A,Smart Active Querying,Network Discovery,Twinsburg 9241 - 10G (BMS),9/14/2025 21:11,8/17/2025 8:25
+Twinsburg BMS 9242 - 10.146.193.128/25 - SPAN 1,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Twinsburg 9242 - 10G (BMS),9/15/2025 14:40,7/25/2025 14:26
+Twinsburg BMS 9242 - 10.146.193.128/25 - SPAN 2,Active,9/15/2025 14:36,Running,N/A,SPAN/TAP,Switch,Twinsburg 9242 - 10G (BMS),9/15/2025 14:36,7/25/2025 14:27
+Twinsburg BMS 9242,Active,9/14/2025 21:12,Idle,N/A,Smart Active Querying,Network Discovery,Twinsburg 9242 - 10G (BMS),9/14/2025 21:12,8/17/2025 8:25
+Twinsburg BMS 9244 - 10.146.192.0/25 - SPAN 1,Active,9/15/2025 14:38,Running,N/A,SPAN/TAP,Switch,Twinsburg 9244 - 10G (BMS),9/15/2025 14:38,7/25/2025 14:27
+Twinsburg BMS 9244 - 10.146.192.0/25 - SPAN 2,Active,9/15/2025 14:37,Running,N/A,SPAN/TAP,Switch,Twinsburg 9244 - 10G (BMS),9/15/2025 14:37,7/25/2025 14:27
+Twinsburg BMS 9244,Active,9/14/2025 21:10,Idle,N/A,Smart Active Querying,Network Discovery,Twinsburg 9244 - 10G (BMS),9/14/2025 21:10,8/17/2025 8:25
+Twinsburg BMS 9245 - 10.146.192.128/25 - SPAN 1,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Twinsburg 9245 - 10G (BMS),9/15/2025 14:39,7/25/2025 14:28
+Twinsburg BMS 9245 - 10.146.192.128/25 - SPAN 2,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Twinsburg 9245 - 10G (BMS),9/15/2025 14:39,7/25/2025 14:28
+Twinsburg BMS 9245,Active,9/14/2025 21:11,Idle,N/A,Smart Active Querying,Network Discovery,Twinsburg 9245 - 10G (BMS),9/14/2025 21:11,8/17/2025 8:25
+Boston 9236 TAP - 10G - Eno8,Active,9/15/2025 14:37,Running,N/A,SPAN/TAP,Switch,Boston 9236 - 10G (TPD),9/15/2025 14:38,7/25/2025 14:29
+San Francisco 9239 - 10G - eno8,Active,9/15/2025 14:38,Running,N/A,SPAN/TAP,Switch,San Francisco 9239 - 10G (TPD),9/15/2025 14:39,4/9/2025 18:16
+Los Angeles 9240 - 10G - Eno8,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Los Angeles 9240 - 10G (TPD),9/15/2025 14:40,7/25/2025 14:29
+Tampa 9246 TAP - 40G - Enp101s0f1np1,No Network Traffic Error,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Tampa 9246 - 40G,9/15/2025 14:39,4/30/2025 20:43
+Alpharetta Colo 9248 - 10G - Eno7,Active,9/15/2025 14:35,Running,N/A,SPAN/TAP,Switch,Alpharetta 9248 - 40G (TPD Co-lo),9/15/2025 14:36,7/25/2025 14:21
+Alpharetta Colo 9248 - 10G - Eno8,Active,9/15/2025 14:36,Running,N/A,SPAN/TAP,Switch,Alpharetta 9248 - 40G (TPD Co-lo),9/15/2025 14:37,7/25/2025 14:21
+Alpharetta Colo 9248 - 1G - Eno3,Active,9/15/2025 14:40,Running,N/A,SPAN/TAP,Switch,Alpharetta 9248 - 40G (TPD Co-lo),9/15/2025 14:40,7/25/2025 14:21
+Alpharetta Colo 9248 - 1G - Eno4,Active,9/15/2025 14:39,Running,N/A,SPAN/TAP,Switch,Alpharetta 9248 - 40G (TPD Co-lo),9/15/2025 14:40,7/25/2025 14:32
+Atlanta Data Center Pilot - 10.254.250.0/23,Active,9/14/2025 15:00,Idle,N/A,Smart Active Querying,Network Discovery,Alpharetta 9248 - 40G (TPD Co-lo),9/14/2025 15:00,8/27/2025 21:09
+Atlanta Data Center Pilot - 10.254.228.0/23,Active,9/14/2025 15:00,Idle,N/A,Smart Active Querying,Network Discovery,Alpharetta 9248 - 40G (TPD Co-lo),9/14/2025 15:00,8/27/2025 21:08
+Atlanta Data Center Pilot - 10.254.226.0/23,Active,9/14/2025 15:00,Idle,N/A,Smart Active Querying,Network Discovery,Alpharetta 9248 - 40G (TPD Co-lo),9/14/2025 15:00,8/27/2025 21:10
